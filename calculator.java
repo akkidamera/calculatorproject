@@ -5,10 +5,10 @@ public class calculator
 		int c=a+b;
 		return c;
 	}
-	public static void main(string args[])
+	public static void main(String args[])
 	{
-		calculator cal=new calculator();
-		System.out.println("the sum of the two numbers "+(cal.add(2,3)));
+		calculator cal =new calculator();
+		System.out.println("the sum of the two numbers "+(cal.add(2,3));
 	}
 }
 
